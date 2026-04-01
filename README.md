@@ -7,7 +7,7 @@
 
 MChip-Monitor (Silicon Widgets) is a beautiful, healing, and highly functional **Desktop Pet + System Component Monitor** built exclusively for macOS running on Apple Silicon (arm64). It brings your system stats to life with interactive pets, modular widgets, and a rich, customizable UI.
 
-### Sign and Upload to Apple (Notarize) on 2026.04.01
+### Signed and Uploaded to Apple (Notarize) on 2026.04.01
 
 ---
 
